@@ -1,0 +1,1 @@
+pd lista = reverse(lista) == lista

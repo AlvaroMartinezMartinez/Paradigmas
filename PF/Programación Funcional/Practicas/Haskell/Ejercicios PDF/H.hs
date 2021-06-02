@@ -1,0 +1,1 @@
+rg lista = [minimum(lista)]++[maximum(lista)]
